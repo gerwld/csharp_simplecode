@@ -45,12 +45,22 @@ namespace Csharp
             whole_simple_num = 6; // присвоение значения переменной
 
             // ввод данных
-            Console.Write("Enter your name: ");
-            string name = Console.ReadLine();
-            if (!string.IsNullOrEmpty(name))
-                Console.WriteLine("Hello," + name + "!");
-            else
-                Console.WriteLine("Doesn't seem like a name, alr I quit.");
+            // Console.Write("Enter your name: ");
+            // string name = Console.ReadLine();
+            // if (!string.IsNullOrEmpty(name))
+            //     Console.WriteLine("Hello," + name + "!");
+            // else
+            //     Console.WriteLine("Doesn't seem like a name, alr I quit.");
+            
+            
+            // 8l приведение типов
+
+            string str1 = "7.5";
+            string str2 = "7.9";
+            Console.WriteLine(Convert.ToDouble(str1) + Convert.ToDouble(str2));
+            Console.WriteLine(Convert.ToInt32(str1) + Convert.ToInt32(str2));
+            
+
 
         }
     }
