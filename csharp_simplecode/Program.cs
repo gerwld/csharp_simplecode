@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System; // с обновой sdk,
+              // по идее больше не нужно импортить
 
 namespace Csharp
 {
@@ -6,8 +7,8 @@ namespace Csharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("dge");
-            Consle.Beep();
+            System.Console.WriteLine("dge");
+            System.Console.Beep();
         }
     }
 }
