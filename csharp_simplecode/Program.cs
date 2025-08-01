@@ -39,7 +39,13 @@ namespace Csharp
              *
              * Все типы данных в C# это не просто типы, а классы и структуры данных
              */
-            
+
+            int whole_simple_num, something_else; // обьявление
+            whole_simple_num = 5;// инициализация
+            whole_simple_num = 6; // присвоение значения переменной
+
+
+
         }
     }
 }
