@@ -44,7 +44,13 @@ namespace Csharp
             whole_simple_num = 5;// инициализация
             whole_simple_num = 6; // присвоение значения переменной
 
-
+            // ввод данных
+            Console.Write("Enter your name: ");
+            string name = Console.ReadLine();
+            if (!string.IsNullOrEmpty(name))
+                Console.WriteLine("Hello," + name + "!");
+            else
+                Console.WriteLine("Doesn't seem like a name, alr I quit.");
 
         }
     }
