@@ -1,0 +1,14 @@
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/obj/Debug/net8.0/csharp_simplecode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/obj/Debug/net8.0/csharp_simplecode.AssemblyInfoInputs.cache
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/obj/Debug/net8.0/csharp_simplecode.AssemblyInfo.cs
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/obj/Debug/net8.0/csharp_simplecode.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/bin/Debug/net8.0/csharp_simplecode
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/bin/Debug/net8.0/csharp_simplecode.deps.json
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/bin/Debug/net8.0/csharp_simplecode.runtimeconfig.json
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/bin/Debug/net8.0/csharp_simplecode.dll
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/bin/Debug/net8.0/csharp_simplecode.pdb
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/obj/Debug/net8.0/csharp_simplecode.dll
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/obj/Debug/net8.0/refint/csharp_simplecode.dll
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/obj/Debug/net8.0/csharp_simplecode.pdb
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/obj/Debug/net8.0/csharp_simplecode.genruntimeconfig.cache
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/csharp_simplecode/obj/Debug/net8.0/ref/csharp_simplecode.dll
