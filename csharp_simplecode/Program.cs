@@ -69,57 +69,58 @@ namespace Csharp
             // 9l
             // parse tryparse
 
-            string str = "5";
-            int a = int.Parse(str); // Parse направлен на строки
+            // string str = "5";
+            // int a = int.Parse(str); // Parse направлен на строки
+            //
+            // string str2 = "5.5"; // может придти c запятой "5,5", тогда будет Parse Exception;
+            // double a2 = double.Parse(str2);
+            //
+            // // решение для запятой (второй параметр парс)
+            // NumberFormatInfo numberFormatInfo = new NumberFormatInfo()
+            // {
+            //     NumberDecimalSeparator = ",",
+            // };      
+            //
+            // string str3 = "5,5"; 
+            // double a3 = double.Parse(str3, numberFormatInfo);
+            // // Console.WriteLine(a3);
+            //
+            //
+            // // работа с исключениями 
+            //
+            // string str4 = "5,5wbegrgeg"; // проебка unhandled exception
+            // try
+            // {
+            //     int a4 = Convert.ToInt32(str4);
+            //     Console.WriteLine(a4);
+            // }
+            // catch (Exception e)
+            // {
+            //     Console.WriteLine(e);
+            // }
+            //
+            // // int a5 = Convert.ToInt32(str4); 
+            // Console.WriteLine("Не падает");
+            //
+            //
+            //
+            // string s1 = "1"; 
+            //
+            // int num1;
+            //
+            // // если ексепшн будет 0 (знач. по умолчанию)
+            // bool isCorrect = int.TryParse(s1, out num1);
+            // if (isCorrect)
+            // {
+            //     Console.WriteLine(s1);
+            // }
+            // else
+            // {
+            //     Console.WriteLine("");
+            // }
             
-            string str2 = "5.5"; // может придти c запятой "5,5", тогда будет Parse Exception;
-            double a2 = double.Parse(str2);
-
-            // решение для запятой (второй параметр парс)
-            NumberFormatInfo numberFormatInfo = new NumberFormatInfo()
-            {
-                NumberDecimalSeparator = ",",
-            };      
-    
-            string str3 = "5,5"; 
-            double a3 = double.Parse(str3, numberFormatInfo);
-            // Console.WriteLine(a3);
-
+            // l10
             
-            // работа с исключениями 
-            
-            string str4 = "5,5wbegrgeg"; // проебка unhandled exception
-            try
-            {
-                int a4 = Convert.ToInt32(str4);
-                Console.WriteLine(a4);
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e);
-            }
-
-            // int a5 = Convert.ToInt32(str4); 
-            Console.WriteLine("Не падает");
-
-
-
-            string s1 = "1"; 
-
-            int num1;
-
-            // если ексепшн будет 0 (знач. по умолчанию)
-            bool isCorrect = int.TryParse(s1, out num1);
-            if (isCorrect)
-            {
-                Console.WriteLine(s1);
-            }
-            else
-            {
-                Console.WriteLine("");
-            }
-            
-
 
         }
     }
