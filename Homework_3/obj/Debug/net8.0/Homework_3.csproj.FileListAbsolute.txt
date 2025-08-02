@@ -1,0 +1,15 @@
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/bin/Debug/net8.0/Homework_3
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/bin/Debug/net8.0/Homework_3.deps.json
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/bin/Debug/net8.0/Homework_3.runtimeconfig.json
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/bin/Debug/net8.0/Homework_3.dll
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/bin/Debug/net8.0/Homework_3.pdb
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/obj/Debug/net8.0/Homework_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/obj/Debug/net8.0/Homework_3.AssemblyInfoInputs.cache
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/obj/Debug/net8.0/Homework_3.AssemblyInfo.cs
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/obj/Debug/net8.0/Homework_3.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/obj/Debug/net8.0/Homework_3.sourcelink.json
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/obj/Debug/net8.0/Homework_3.dll
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/obj/Debug/net8.0/refint/Homework_3.dll
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/obj/Debug/net8.0/Homework_3.pdb
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/obj/Debug/net8.0/Homework_3.genruntimeconfig.cache
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/Homework_3/obj/Debug/net8.0/ref/Homework_3.dll
