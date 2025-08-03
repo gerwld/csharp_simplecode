@@ -1,0 +1,15 @@
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/bin/Debug/net8.0/cw
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/bin/Debug/net8.0/cw.deps.json
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/bin/Debug/net8.0/cw.runtimeconfig.json
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/bin/Debug/net8.0/cw.dll
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/bin/Debug/net8.0/cw.pdb
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/obj/Debug/net8.0/cw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/obj/Debug/net8.0/cw.AssemblyInfoInputs.cache
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/obj/Debug/net8.0/cw.AssemblyInfo.cs
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/obj/Debug/net8.0/cw.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/obj/Debug/net8.0/cw.sourcelink.json
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/obj/Debug/net8.0/cw.dll
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/obj/Debug/net8.0/refint/cw.dll
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/obj/Debug/net8.0/cw.pdb
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/obj/Debug/net8.0/cw.genruntimeconfig.cache
+/Users/apple/Desktop/prog/projects/cpp/csharp_simplecode/cw/obj/Debug/net8.0/ref/cw.dll
