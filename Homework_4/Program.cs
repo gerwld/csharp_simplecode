@@ -13,22 +13,19 @@ class Program
         string cta = "Перезапустите программу и введите целое число.";
         string response = Console.ReadLine();
 
-        
+        void ValidateReponse(BigInteger num)
+        {
+            if (num % 2 == 0) Console.WriteLine($"{num} - парное число.");
+            else Console.WriteLine($"{num} - непарное число.");
+        }
+
         if (Int32.TryParse(response, out Int32 integer)) // целое
-        {
-            if (integer % 2 == 0) Console.WriteLine($"{integer} - парное число.");
-            else Console.WriteLine($"{integer} - непарное число.");
-        }
+            ValidateReponse(integer);
         else if (BigInteger.TryParse(response, out BigInteger big)) // большое
-        {
-            if (integer % 2 == 0) Console.WriteLine($"{big} - парное число.");
-            else Console.WriteLine($"{big} - непарное число."); 
-        }
-        // 2 конструкции выше можно обьединить, только ухудшит читаемость
-        
+            ValidateReponse(big);
         else if (double.TryParse(response, out double doub)) // c точкой
             Console.WriteLine($"{doub} - дробное число. {cta}");
-        else if(response == "") Console.WriteLine($"Введено пустое значение. {cta}"); // пустое
+        else if (response == "") Console.WriteLine($"Введено пустое значение. {cta}"); // пустое
         else Console.WriteLine($"Введено неверное значение (\"{response}\"). {cta}"); // неверное
     }
 }
