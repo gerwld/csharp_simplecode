@@ -28,7 +28,24 @@ class Program
         {
             Console.WriteLine("for is working");   
             System.Threading.Thread.Sleep(300);
+            break;
         }
+
+        int iv = 0;
+        for (; iv < 3; iv++)
+        {
+            Console.WriteLine("for_1: " + iv);
+        }
+        for (; iv < 5; iv++)
+        {
+            Console.WriteLine("for_2: " + iv);
+        }
+        
+        for (int il = 0, nil = 5; il < 3; il++, nil--)
+        {
+            Console.WriteLine($"for_3: il - {il}, nil - {nil}");
+        }
+        
 
         Console.WriteLine($"Число {number} содержит в себе: {evenCount} парных и {unevenCount} непарных чисел.");
     }
